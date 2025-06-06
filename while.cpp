@@ -4,8 +4,6 @@ using namespace std;
 int main(){
 int num;
 
-cout<<"Ingrese un numero del 1 al 10."<<endl;
-cin>>num;
 
 do
 {
